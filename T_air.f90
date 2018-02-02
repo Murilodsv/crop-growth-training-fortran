@@ -2,6 +2,7 @@
         !--------------------------------------------------------------------------------------------------
         !--- Calculates the Hourly temperature based on Parton & Logan Model, 1981 
         !--- DOI: 10.1016/0002-1571(81)90105-9
+	! Also Implemented in R: https://github.com/Murilodsv/R-scripts/blob/master/Tair.R
         !
         ! Inputs: 
         ! Maximun Day Temperature [°C]  -> tmaxday 
