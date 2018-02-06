@@ -4,6 +4,7 @@
       !--- Asymptote Curve and its first derivative (df=1)
       !--- Author: Murilo S. Vianna
       !--- Feb-2018
+      !--- Why using this function to describe growth -> doi: 10.1093/aob/mcg029
       
       implicit none
       
